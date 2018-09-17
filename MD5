@@ -1,0 +1,12 @@
+1ac02bb41dacd6a38114694bb850ede5 *DESCRIPTION
+db8df6852a9a4942bd575b66a884b35e *LICENSE
+8bfb612cc8ceb18101c62d749976a74e *NAMESPACE
+104b43a7414eeb73afc5f408f76d9163 *NEWS.md
+a7466a62ed6fae9a87f30105138548f2 *R/package.R
+5cde24c761302cbef0aa2396189e0b5f *README.md
+3ef275c3d99d77b3b311995871e03d14 *inst/xdg-open
+f50400886c32a0468e35fc9db02705f1 *man/wait_for_finish.Rd
+eb3dda01d56c2b54a781c17ba8c2f6a7 *man/xopen.Rd
+5c6d59ea7798232f7805b916c0f27572 *tests/testthat.R
+04bf174f4cd986f709769018a63ca51d *tests/testthat/helper.R
+043abfef575bcfddadbdc65be0bc7d3a *tests/testthat/test.R
